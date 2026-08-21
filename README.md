@@ -79,10 +79,11 @@ Streamlit UI
 * 62 Parasitized images were classified as Uninfected
 * 114 Uninfected images were classified as Parasitized
 ```
-
-⸻
+---
 
 ## 📁 Project Structure
+
+```text
 malaria-classifier/
 │
 ├── app.py
@@ -94,10 +95,11 @@ malaria-classifier/
 │
 └── .streamlit/
     └── config.toml
+```
 
 The dataset and virtual environment are excluded from the repository.
 
-⸻
+---
 
 ## 🚀 Run Locally
 
