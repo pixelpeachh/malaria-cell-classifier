@@ -55,6 +55,7 @@ Softmax
 Prediction + Confidence
     ↓
 Streamlit UI
+```
 
 ## 📊 Results
 
@@ -77,6 +78,7 @@ Streamlit UI
 * Correctly classified 1979 Uninfected images
 * 62 Parasitized images were classified as Uninfected
 * 114 Uninfected images were classified as Parasitized
+```
 
 ⸻
 
