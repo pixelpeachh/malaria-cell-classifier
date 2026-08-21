@@ -82,7 +82,7 @@ Streamlit UI
 
 ⸻
 
-📁 Project Structure
+## 📁 Project Structure
 malaria-classifier/
 │
 ├── app.py
@@ -99,7 +99,7 @@ The dataset and virtual environment are excluded from the repository.
 
 ⸻
 
-🚀 Run Locally
+## 🚀 Run Locally
 
 Clone the repository:
 git clone <repository-url>
@@ -117,6 +117,6 @@ streamlit run app.py
 
 ⸻
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 This project is intended for educational and research purposes only. Model predictions may be incorrect and should not replace professional medical evaluation.
 
