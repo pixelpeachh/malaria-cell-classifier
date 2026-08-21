@@ -1,4 +1,5 @@
 # 🩸 Malaria Cell Classifier
+LINK: https://malaria-cell-classifier-21.streamlit.app/
 
 A deep learning image classification project that classifies malaria blood-cell images as **Parasitized** or **Uninfected** using a trained **ResNet18** model.
 
