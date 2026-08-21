@@ -1,0 +1,16 @@
+[theme]
+[theme]
+
+base = "dark"
+
+primaryColor = "#2DD4BF"
+backgroundColor = "#0B1117"
+secondaryBackgroundColor = "#151F28"
+textColor = "#F1F5F9"
+
+baseRadius = "medium"
+buttonRadius = "medium"
+
+font = "sans-serif"
+headingFont = "sans-serif"
+

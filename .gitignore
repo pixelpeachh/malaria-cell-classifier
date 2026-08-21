@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Dataset
+dataset/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+Icon?
+
+# Streamlit secrets
+.streamlit/secrets.toml
