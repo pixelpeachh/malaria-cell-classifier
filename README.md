@@ -117,7 +117,7 @@ pip install -r requirements.txt
 Run the application:
 streamlit run app.py
 
-⸻
+---
 
 ## ⚠️ Disclaimer
 This project is intended for educational and research purposes only. Model predictions may be incorrect and should not replace professional medical evaluation.
